@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**oxy4ff/oxy4ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 # 👋 Oxy<br><br>💻 Developer focused on **Reverse Engineering**, **Security Research**, and low-level software analysis.  <br>🧠 3+ years of hands-on experience with **Python** and **C#**.<br><br>---<br><br>## 🚀 Tech Interests<br><br>### 🐍 Python<br>- Automation & scripting  <br>- Custom tools  <br>- API interaction  <br>- Reverse engineering helpers  <br><br>### 💠 C#<br>- Desktop applications  <br>- Process & memory manipulation  <br>- Client-side analysis  <br><br>### 🔍 Reverse Engineering<br>- Binary analysis  <br>- Deobfuscation  <br>- Debugging & tracing  <br>- Runtime inspection  <br><br>### 🛡️ Security<br>- Client-side vulnerabilities  <br>- Logic flaws  <br>- Anti-debug / anti-cheat analysis  <br>- Custom research tooling  <br><br>---<br><br>## 🧠 Mindset<br><br>- 🔬 Understand how things work internally  <br>- 🧹 Clean, minimal, purpose-driven code  <br>- 🧱 Stability and control over shortcuts  <br>- 📊 Defensive and analytical approach  <br><br>---<br><br>## 🛠️ What You’ll Find Here<br><br>- 🔧 Reverse engineering experiments  <br>- 🧪 Security research & proofs of concept  <br>- ⚙️ Custom tools and scripts  <br>- 📚 Learning-focused technical projects  <br><br>---<br><br>## ⚠️ Disclaimer<br><br>All content is shared for **educational and research purposes only**.<br>
 
 
@@ -32,8 +22,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=oxy4ff&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
